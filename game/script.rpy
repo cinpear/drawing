@@ -80,6 +80,15 @@ label start:
     e "Style studies"
     e "Pay attention to things like lines of action"
     # what are lines of action?
+        # line of action guide the viewer's eyes on where to look
+        # they convey a sense of movement
+        # if your line of action is too stiff, it can make a drawing look boring or uninteresting
+        # leaving the viewer with an "offputting" feeling
+            # which might be someting you are going for!
+            # but oftentimes is not something you want
+        # good lines of actions make for really dynamic and interesting pieces
+        # so it's good to practice recognizing lines of actions in different pose studies you're doing
+        # and learning how to create your own
     # for sure!
     e "Study artists that you enjoy!"
     e "Figure out what you like about their style"
@@ -182,6 +191,15 @@ label start:
     e "You can use ibisPaint, if you can ignore the ads"
     e "Alternatively, autodesk sketchbook and medibang all have free options"
     e "Procreate is a great one time purchase for iPad, and is very user friendly"
-    e "CSP on ipad is a recurring subscription"
+    e "CSP on ipad is a recurring subscription which is very sad"
 
+    e "I personally use Procreate now, and when I drew on my computer, I used Krita"
+    e "Remember that drawing software is just a matter of preference"
+    e "Great artists can draw with any software"
+    e "(Though a disagreeable software can cause much suffering)"
+
+    e "Now go out in the world"
+    e "And create something"
+    e "Or don't"
+    e "I don't really care haha"
     return
